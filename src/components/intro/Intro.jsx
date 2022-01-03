@@ -22,7 +22,7 @@ export default function Intro() {
         event.clientX +
         'px ' +
         event.clientY +
-        'px, rgba(159,0,191,.9) 0, #4D4FA7 70%)';
+        'px, rgba(159,0,191,.9) 0, #838DE7 70%)';
     }
     document.addEventListener('mousemove', onMouseMove);
   }, []);
