@@ -23,10 +23,11 @@
       height: 700px;
 
       img {
+        margin-top: 40px;
         margin-left: 50px;
         width: 70%;
         position: relative;
-        border: black;
+        border: 4mm solid rgba(255, 255, 255, 0.6);
         border-radius: 30% 30% 50% 70%;
         padding: 30px;
       }

@@ -42,7 +42,7 @@ export default function Portfolio() {
       }}
     >
       <h1>
-        <span> Browse my work</span>
+        <span> Browse my work...</span>
       </h1>
       <ul>
         {list.map((item) => {
@@ -61,13 +61,7 @@ export default function Portfolio() {
 
           <img src="assets/suitcasedark.png" alt="" />
           <h2>Work Experience</h2>
-          <p>
-            During my two internships as a Knowledge Management Consultant at
-            Bombardier Aerospace, I honed my analytical thinking skills to
-            design various processes related to the new Engineering Technical
-            Talent Module used by 1000+ engineering personnel, all while
-            communicating bilingually.
-          </p>
+          <p>Descriptions of my internship and part time experience.</p>
         </div>
 
         <div className="item">
