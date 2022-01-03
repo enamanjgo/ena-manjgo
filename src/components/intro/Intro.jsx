@@ -44,7 +44,10 @@ export default function Intro() {
         <div className="background"></div>
         <div className="opener"></div>
         <div className="imgContainer">
-          <img src="assets/WebsiteContent/Enapics/FinalSig3.gif" alt="" />
+          <img
+            src="https://i.imgur.com/EGYBqw6.gif"
+            title="source: imgur.com"
+          />
           <h3>
             <span ref={textRef}></span>
           </h3>

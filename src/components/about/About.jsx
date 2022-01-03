@@ -25,7 +25,10 @@ export default function About() {
         }}
       >
         <div className="imgContainer">
-          <img src="assets/WebsiteContent/Enapics/windypic.jpg" alt="" />
+          <img
+            src="https://i.imgur.com/OFURt6f.jpg"
+            title="source: imgur.com"
+          />
           <p>In my spare time,</p>
         </div>
       </div>
