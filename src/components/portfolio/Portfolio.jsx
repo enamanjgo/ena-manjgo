@@ -73,13 +73,9 @@ export default function Portfolio() {
           </form>
 
           <img src="assets/engdrawingdark.png" alt="" />
-          <h2>CAD Portfolio</h2>
+          <h2>CAD </h2>
           <p>
-            Case Studies <br />
-            <em>
-              Problem Definition, Wireframing, Prototyping, User Personas,
-              Competitive Analysis
-            </em>
+            SolidWorks drawings, assemblies, and visualizations. <br />
             <br />
           </p>
         </div>
@@ -92,7 +88,7 @@ export default function Portfolio() {
             <button class="btn third">See more</button>
           </form>
           <img src="assets/wireframedark.png" alt="" />
-          <h2>UI/UX Design Portfolio</h2>
+          <h2>Product Design</h2>
           <p>
             Case Studies <br />
             <em>
@@ -112,7 +108,7 @@ export default function Portfolio() {
             <button class="btn third">See more</button>
           </form>
           <img src="assets/designdark.png" alt="" />
-          <h2>Visual Design Portfolio</h2>
+          <h2>Visuals</h2>
           <p>
             Marketing content and branding <br />
             <em>
