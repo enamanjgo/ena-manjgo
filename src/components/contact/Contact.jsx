@@ -16,7 +16,7 @@ export default function Contact() {
       <div className="left">
         <div className="top">
           <div className="salutation">
-            <h1>Thank you for stopping by!</h1>
+            <h1>🚶‍♂️Thank you for stopping by!</h1>
             <h4>I would love to keep in touch!</h4>
           </div>
         </div>
