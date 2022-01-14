@@ -41,9 +41,6 @@ export default function Portfolio() {
         backgroundRepeat: 'no-repeat',
       }}
     >
-      <h1>
-        <span> Browse my work...</span>
-      </h1>
       <ul>
         {list.map((item) => {
           <PortfolioList title={item.title} />;
@@ -153,14 +150,7 @@ export default function Portfolio() {
         </div>
       </div>
 
-      <div className="arrow">
-        <a href="#contact">
-          <img
-            src="assets/WebsiteContent/HandDrawnAssets/arrowdown.png"
-            alt=""
-          />
-        </a>
-      </div>
+      <div className="arrow"></div>
     </div>
   );
 }
