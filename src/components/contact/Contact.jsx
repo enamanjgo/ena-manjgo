@@ -55,8 +55,6 @@ export default function Contact() {
               </a>
             </div>
           </div>
-
-          <h2>Designed and coded with ❤ by Ena Manjgo</h2>
         </div>
       </div>
     </div>
