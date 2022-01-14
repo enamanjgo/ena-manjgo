@@ -1,11 +1,17 @@
+@import '../../global.scss';
+
 .about {
   display: flex;
   flex-wrap: wrap;
 
   .left {
     display: flex;
-    position: absolute;
+    position: relative;
     flex: 0.4;
+
+    @include mobile1 {
+      flex: 0;
+    }
 
     h3 {
       font-family: 'Be Vietnam Pro', sans-serif;
@@ -23,10 +29,14 @@
       width: 700px;
       height: 700px;
 
+      @include mobile1 {
+        display: none;
+      }
+
       img {
-        margin-top: 40px;
-        margin-left: 50px;
-        width: 70%;
+        margin-top: 70px;
+        margin-left: 65px;
+        width: 60%;
         position: relative;
         border: 2mm solid rgba(255, 255, 255, 0.6);
         border-radius: 30% 30% 50% 70%;
@@ -38,6 +48,10 @@
     position: relative;
     flex: 0.6;
     overflow: hidden;
+
+    @include mobile1 {
+      flex: 1;
+    }
 
     .wrapper {
       margin-right: 100px;
@@ -51,6 +65,14 @@
       justify-content: center;
       position: absolute;
 
+      @include mobile1 {
+        padding: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+      }
+
       p {
         font-family: 'Be Vietnam Pro', sans-serif;
         font-weight: 200;
@@ -60,11 +82,15 @@
         z-index: 2;
         color: snow;
         position: relative;
-        font-size: 20px;
-        margin-top: 20px;
+        font-size: 18px;
+        margin-top: 25px;
         margin-left: 150px;
         margin-right: 50px;
         margin-bottom: 100px;
+
+        @include mobile1 {
+          margin: none;
+        }
       }
     }
 
