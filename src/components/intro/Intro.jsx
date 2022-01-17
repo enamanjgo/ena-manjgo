@@ -11,7 +11,12 @@ export default function Intro() {
       showCursor: true,
       backDelay: 1500,
       backSpeed: 80,
-      strings: ['Engineering Student', 'Designer', 'Problem-solver'],
+      strings: [
+        'Engineering Student',
+        'Aspiring PM',
+        'Problem-solver',
+        'Dreamer',
+      ],
     });
 
     const gradient = document.querySelector('.gradient');
