@@ -39,8 +39,8 @@ export default function About() {
           <p>
             {' '}
             I’m Ena. It rhymes with Jenna! I’m a Systems Design Engineering
-            student at the University of Waterloo with a passion for design in
-            all its forms.
+            student at the University of Waterloo with a passion for systems
+            thinking.
             <br /> 🎨🚉👾
             <br /> <br />
             Most recently, I've worked at Bombardier Aerospace as an Engineering
