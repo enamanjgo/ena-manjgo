@@ -19,7 +19,7 @@ export default function Menu({ menuOpen, setMenuOpen }) {
 
         <li onClick={() => setMenuOpen(false)}>
           <a
-            href="https://drive.google.com/file/d/1mgqulj176Hkfrso8zbuujaOkFzFzvJwi/view?usp=sharing"
+            href="https://drive.google.com/file/d/1t_eIfn-QS1cYVdoVCsNUCHmkdixLpxcE/view?usp=sharing"
             target="_blank"
           >
             Resume
