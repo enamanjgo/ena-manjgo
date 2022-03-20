@@ -39,15 +39,11 @@ export default function About() {
           <p>
             {' '}
             I’m Ena. It rhymes with Jenna! I’m a Systems Design Engineering
-            student at the University of Waterloo with a passion for systems
-            thinking.
+            student at the University of Waterloo.
             <br /> 🎨🚉👾
             <br /> <br />
             This spring, I'm taking on an internship at The Weather Network in
             Product Management, a space that I'm highly passionate about.
-            <br /> <br />
-            I'm currently seeking Winter 2023 internships in Product Management,
-            or Software development.
             <br /> <br />
             When I'm not working, you can find me making digital art, brushing
             up on my language skills, or telling really awful jokes.
