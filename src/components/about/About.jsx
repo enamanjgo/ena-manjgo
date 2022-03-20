@@ -26,7 +26,7 @@ export default function About() {
       >
         <div className="imgContainer">
           <img
-            src="https://i.imgur.com/OFURt6f.jpg"
+            src="https://i.imgur.com/SOmLvpa.jpg"
             title="source: imgur.com"
           />
         </div>
@@ -43,13 +43,11 @@ export default function About() {
             thinking.
             <br /> 🎨🚉👾
             <br /> <br />
-            Most recently, I've worked at Bombardier Aerospace as an Engineering
-            Knowledge Management Consultant. While there, I designed processes
-            to transform company-wide employee information databases, making
-            them more efficient and accessible. ✈
+            This spring, I'm taking on an internship at The Weather Network in
+            Product Management, a space that I'm highly passionate about.
             <br /> <br />
-            I'm currently seeking Summer 2022 internships in Product Management,
-            Mechanical Design, or UX Design.
+            I'm currently seeking Winter 2023 internships in Product Management,
+            or Software development.
             <br /> <br />
             When I'm not working, you can find me making digital art, brushing
             up on my language skills, or telling really awful jokes.
