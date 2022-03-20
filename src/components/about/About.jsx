@@ -26,7 +26,7 @@ export default function About() {
       >
         <div className="imgContainer">
           <img
-            src="https://i.imgur.com/SOmLvpa.jpg"
+            src="https://i.imgur.com/3vw9cem.jpg"
             title="source: imgur.com"
           />
         </div>
