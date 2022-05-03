@@ -42,8 +42,9 @@ export default function About() {
             student at the University of Waterloo.
             <br /> 🎨🚉👾
             <br /> <br />
-            This spring, I'm taking on an internship at The Weather Network in
-            Product Management, a space that I'm highly passionate about.
+            I'm currently pursuing product design and product management
+            opportunities. When I'm not working, you can find me making art,
+            brushing up on my language skills, or telling really awful jokes.
             <br /> <br />
             See my work below!
           </p>
